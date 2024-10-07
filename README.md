@@ -21,12 +21,11 @@ Una API RESTful simple para la gestión de tareas construida en Node.js. Esta ap
 Sigue estos pasos para configurar y ejecutar la aplicación:
 
 1. **Clona este repositorio**:
-   ```bash
+    ```bash
        git clone https://github.com/John-fonseca/taskManager.git
        cd taskManager
-   
- ```bash
-      npm isntall
-   
 ```bash
-      node app.js
+   npm isntall
+``` 
+```bash
+  node app.js
