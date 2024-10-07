@@ -28,5 +28,12 @@ Sigue estos pasos para configurar y ejecutar la aplicación:
    ```bash
    npm isntall
 1. **Ejecuta la aplicación**:
-```bash
-  node app.js
+   ```bash
+   node app.js
+
+## Instalación de Postman
+Descarga Postman: Ve a https://www.postman.com/downloads/ y descarga la versión adecuada para tu sistema operativo.
+Instala Postman: Sigue las instrucciones de instalación.
+Abre Postman: Una vez instalado, abre la aplicación.
+
+
