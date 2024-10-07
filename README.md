@@ -22,10 +22,11 @@ Sigue estos pasos para configurar y ejecutar la aplicación:
 
 1. **Clona este repositorio**:
     ```bash
-       git clone https://github.com/John-fonseca/taskManager.git
-       cd taskManager
-```bash
+    git clone https://github.com/John-fonseca/taskManager.git
+    cd taskManager
+2. **Instalar dependencias**:
+   ```bash
    npm isntall
-``` 
+1. **Ejecuta la aplicación**:
 ```bash
   node app.js
